@@ -1,4 +1,4 @@
-# Call_Center_Excel_Dashboard
+# Excel Projects
 
 In this project I used 'Real World Fake Data' dataset and then built a dashboard using Excel with different charts and filters to visualize the data.
 
